@@ -1,4 +1,4 @@
 # react-search-history
 
-### Demo
+### Live demo
 https://react-search-history.stackblitz.io
